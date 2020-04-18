@@ -3,6 +3,119 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.9.1](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.9.0...@ohif/viewer@3.9.1) (2020-04-17)
+
+
+### Bug Fixes
+
+* `showStudyList` config ([#1647](https://github.com/OHIF/Viewers/issues/1647)) ([d9fc7bb](https://github.com/OHIF/Viewers/commit/d9fc7bbb0e6d868f507c515f031aaf88a2353e2f))
+
+
+
+
+
+# [3.9.0](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.21...@ohif/viewer@3.9.0) (2020-04-17)
+
+
+### Features
+
+* set the authorization header for DICOMWeb requests if provided in query string ([#1646](https://github.com/OHIF/Viewers/issues/1646)) ([450c80b](https://github.com/OHIF/Viewers/commit/450c80b9d5f172be8b5713b422370360325a0afc))
+
+
+
+
+
+## [3.8.21](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.20...@ohif/viewer@3.8.21) (2020-04-15)
+
+**Note:** Version bump only for package @ohif/viewer
+
+
+
+
+
+## [3.8.20](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.19...@ohif/viewer@3.8.20) (2020-04-09)
+
+
+### Bug Fixes
+
+* Revert "refactor: Reduce bundle size ([#1575](https://github.com/OHIF/Viewers/issues/1575))" ([#1622](https://github.com/OHIF/Viewers/issues/1622)) ([d21af3f](https://github.com/OHIF/Viewers/commit/d21af3f133492fa31492413b8782936c9ff18b44))
+
+
+
+
+
+## [3.8.19](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.18...@ohif/viewer@3.8.19) (2020-04-09)
+
+**Note:** Version bump only for package @ohif/viewer
+
+
+
+
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [3.8.18](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.17...@ohif/viewer@3.8.18) (2020-04-07)
+
+**Note:** Version bump only for package @ohif/viewer
+
+
+
+
+
+## [3.8.17](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.16...@ohif/viewer@3.8.17) (2020-04-06)
+
+**Note:** Version bump only for package @ohif/viewer
+
+
+
+
+
+## [3.8.16](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.15...@ohif/viewer@3.8.16) (2020-04-02)
+
+**Note:** Version bump only for package @ohif/viewer
+
+
+
+
+
+## [3.8.15](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.14...@ohif/viewer@3.8.15) (2020-04-02)
+
+**Note:** Version bump only for package @ohif/viewer
+
+
+
+
+
+## [3.8.14](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.13...@ohif/viewer@3.8.14) (2020-04-02)
+
+**Note:** Version bump only for package @ohif/viewer
+
+
+
+
+
+## [3.8.13](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.12...@ohif/viewer@3.8.13) (2020-04-01)
+
+
+### Bug Fixes
+
+* segmentation not loading ([#1566](https://github.com/OHIF/Viewers/issues/1566)) ([4a7ce1c](https://github.com/OHIF/Viewers/commit/4a7ce1c09324d74c61048393e3a2427757e4001a))
+
+
+
+
+
+## [3.8.12](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.11...@ohif/viewer@3.8.12) (2020-03-31)
+
+**Note:** Version bump only for package @ohif/viewer
+
+
+
+
+
 ## [3.8.11](https://github.com/OHIF/Viewers/compare/@ohif/viewer@3.8.10...@ohif/viewer@3.8.11) (2020-03-26)
 
 

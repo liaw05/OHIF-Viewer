@@ -3,6 +3,87 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.7.0](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.11...@ohif/core@2.7.0) (2020-04-17)
+
+
+### Features
+
+* set the authorization header for DICOMWeb requests if provided in query string ([#1646](https://github.com/OHIF/Viewers/issues/1646)) ([450c80b](https://github.com/OHIF/Viewers/commit/450c80b9d5f172be8b5713b422370360325a0afc))
+
+
+
+
+
+## [2.6.11](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.10...@ohif/core@2.6.11) (2020-04-15)
+
+**Note:** Version bump only for package @ohif/core
+
+
+
+
+
+## [2.6.10](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.9...@ohif/core@2.6.10) (2020-04-09)
+
+
+### Bug Fixes
+
+* Revert "refactor: Reduce bundle size ([#1575](https://github.com/OHIF/Viewers/issues/1575))" ([#1622](https://github.com/OHIF/Viewers/issues/1622)) ([d21af3f](https://github.com/OHIF/Viewers/commit/d21af3f133492fa31492413b8782936c9ff18b44))
+
+
+
+
+
+## [2.6.9](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.8...@ohif/core@2.6.9) (2020-04-09)
+
+**Note:** Version bump only for package @ohif/core
+
+
+
+
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.6.8](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.7...@ohif/core@2.6.8) (2020-04-06)
+
+**Note:** Version bump only for package @ohif/core
+
+
+
+
+
+## [2.6.7](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.6...@ohif/core@2.6.7) (2020-04-02)
+
+
+### Bug Fixes
+
+* 🐛 Fix multiframe images ([#1595](https://github.com/OHIF/Viewers/issues/1595)) ([9e0bd52](https://github.com/OHIF/Viewers/commit/9e0bd52c6a86648eb6673344a8555ad787043e5c))
+
+
+
+
+
+## [2.6.6](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.5...@ohif/core@2.6.6) (2020-04-02)
+
+**Note:** Version bump only for package @ohif/core
+
+
+
+
+
+## [2.6.5](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.4...@ohif/core@2.6.5) (2020-04-01)
+
+
+### Bug Fixes
+
+* segmentation not loading ([#1566](https://github.com/OHIF/Viewers/issues/1566)) ([4a7ce1c](https://github.com/OHIF/Viewers/commit/4a7ce1c09324d74c61048393e3a2427757e4001a))
+
+
+
+
+
 ## [2.6.4](https://github.com/OHIF/Viewers/compare/@ohif/core@2.6.3...@ohif/core@2.6.4) (2020-03-25)
 
 
